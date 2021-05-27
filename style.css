@@ -1,0 +1,20 @@
+:root{
+  --color1: #227C98;
+  --color2: #17C3B2;
+  --color3: #FFCB77;
+  --color4: #FEF9EF;
+  --color5: #FE6D73;
+}
+.navbar{
+  background-color: var(--color3);
+}
+.btn{
+  background-color: var(--color3);
+}
+body{
+  text-align: center;
+  font-family: FontAwesome;
+}
+section.bg{
+  background-color: var(--color4);
+}
